@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">registration form </h1><br />
+      
+      <p >name :</p>
+      <input type="text" name="name"/>
+      <p  >phone number :</p>
+      <input type="number" name="name"/>
+      <p  itemtype="email">email id  :</p>
+      <input type="email" name="name"/>
+      <p itemtype="date" >date of brith :</p>
+      <input type="date" name="name"/>
+      <script src="script.js"></script>
+  </body>
+</html>
